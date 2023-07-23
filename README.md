@@ -2,6 +2,8 @@
 
 Quick demo showing an end to end example of a front end streaming tokens from a backend.
 
+![](https://github.com/adam-fallon/StreamingLLM/demo.gif)
+
 ## Run
 1. Put your OpenAI Key into `api/.env`
 2. Run `sh run.sh`
